@@ -1,0 +1,6 @@
+data/
+.git/
+.ipynb_checkpoints
+conda-env-m5/
+.idea/
+__pycache__
